@@ -175,20 +175,16 @@ https://engineeringxpert.com/wp-content/uploads/2022/04/26.png
 
 15. click on debug and simulate using simulation as shown below 
 
-![image](https://user-images.githubusercontent.com/36288975/233856904-99eb708a-c907-4595-9025-c9dbd89b8879.png)
 
-## CIRCUIT DIAGRAM :
-![](pmc1.png)
-
- 
+## CIRCUIT DIAGRAM 
+<img width="568" alt="Screenshot 2023-05-22 143406" src="https://github.com/21003698/EXPERIMENT--05-INTERFACING-A-4X4-MATRIX-KEYPAD-AND-DISPLAY-THE-OUTPUT-ON-LCD/assets/93427522/89e55377-9f83-4b16-a3d6-9fe31155a7d0">
 
 ## STM 32 CUBE PROGRAM :
 ```
-Program developed by :kabilan T
-reg  no : 212222230059
+Developed By:kabilan T
+Register No:212222230059
 ```
 ```
-
 #include "main.h"
 #include <stdbool.h>
 #include "lcd.h"
@@ -460,17 +456,17 @@ void assert_failed(uint8_t *file, uint32_t line)
 }
 #endif 
 ```
+## Output screen shots of proteus :
 
+ ![5](https://github.com/21003698/EXPERIMENT--05-INTERFACING-A-4X4-MATRIX-KEYPAD-AND-DISPLAY-THE-OUTPUT-ON-LCD/assets/93427522/b628840d-ffd9-4c23-ad4a-cb0b310499a1)
 
+![6](https://github.com/21003698/EXPERIMENT--05-INTERFACING-A-4X4-MATRIX-KEYPAD-AND-DISPLAY-THE-OUTPUT-ON-LCD/assets/93427522/f3ea908d-fb55-4ae8-bba6-fca4a3316832)
 
-## Output screen shots of proteus  :
-![](pmc2.png)
-![](pmc3.png)
-![](pmc4.png)
- 
- 
- ## CIRCUIT DIAGRAM (EXPORT THE GRAPHICS TO PDF AND ADD THE SCREEN SHOT HERE): 
- ![](pmc5.png)
- 
+![9](https://github.com/21003698/EXPERIMENT--05-INTERFACING-A-4X4-MATRIX-KEYPAD-AND-DISPLAY-THE-OUTPUT-ON-LCD/assets/93427522/01b0498b-f616-47e4-806a-1395220e9c0a)
+
+## CIRCUIT DIAGRAM (EXPORT THE GRAPHICS TO PDF AND ADD THE SCREEN SHOT HERE): 
+
+<img width="444" alt="adobe" src="https://github.com/21003698/EXPERIMENT--05-INTERFACING-A-4X4-MATRIX-KEYPAD-AND-DISPLAY-THE-OUTPUT-ON-LCD/assets/93427522/55fcf71d-1bac-42df-a63c-434710fcfcec">
+
 ## Result :
 Interfacing a 4x4 keypad with ARM microcontroller are simulated in proteus and the results are verified.
